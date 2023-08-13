@@ -1,0 +1,19 @@
+
+_
+java:S4973…"<Strings and Boxed types should be compared using "equals()".(ğÔ¸›úÿÿÿÿ8©«‡Ë1
+0
+java:S1220""Move this file to a named package.
+L
+java:S1854€"5Remove this useless assignment to local variable "a".(ÑÇ¼
+=
+java:S1481€"&Remove this unused "a" local variable.(ÑÇ¼
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(¥ÈœÁ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(´©·ç
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¦£Èí
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ìÀ‡ÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(óºÇÈøÿÿÿÿ
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(é”ïë8â†‡Ë1
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(ÕÌó­úÿÿÿÿ8¿É‹Ë1
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(«Ã‡µøÿÿÿÿ8“Ë1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¢Í‡Ë1

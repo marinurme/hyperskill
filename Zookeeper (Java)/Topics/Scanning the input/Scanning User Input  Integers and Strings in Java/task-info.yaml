@@ -1,0 +1,41 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: |-
+    <pre><code class="java">import java.util.Scanner;
+    Scanner input = new Scanner(System.in);
+    int num = input.nextInt();
+    input.nextLine();
+    String text = input.nextLine();</code></pre>
+- text: |-
+    <pre><code class="java">import java.util.Input;
+    Scanner sc = new Scanner(System.in);
+    int num = sc.nextInt();
+    String str = sc.nextLine();</code></pre>
+- text: |-
+    <pre><code class="java">import java.util.Scanner;
+    Scanner input = new Scanner(System.in);
+    int number = input.nextInt();
+    String text = input.nextLine();</code></pre>
+- text: |-
+    <pre><code class="java">import java.Scanner;
+    Scanner userInput = new Scanner(System.in);
+    int number = userInput.nextInt();
+    String text = userInput.next();</code></pre>
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29747#comment
+status: Solved
+record: -1
+custom_name: "Scanning User Input: Integers and Strings in Java"
+local_check: false

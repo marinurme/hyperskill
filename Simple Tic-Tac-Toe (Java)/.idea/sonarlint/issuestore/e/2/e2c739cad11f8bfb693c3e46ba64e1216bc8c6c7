@@ -1,0 +1,25 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+h
+java:S1450"RRemove the "col" field and declare it as a local variable in the relevant methods.(ƒò»‹
+h
+java:S1450"RRemove the "row" field and declare it as a local variable in the relevant methods.(÷Ü¼Ç
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õŠ¹µ
+f
+java:S1764!"KCorrect one of the identical sub-expressions on both sides of operator "||"(ë»ÖÆùÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(Â¡ÂH
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Ì¨¤Ðüÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ý°Ô”
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÖáöÐ
+R
+java:S1854A"<Remove this useless assignment to local variable "gameGrid".(ñÑŽ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¦œß®
+C
+java:S1481A"-Remove this unused "gameGrid" local variable.(ñÑŽ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(·»´
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(„–‘§úÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(¦œß®
